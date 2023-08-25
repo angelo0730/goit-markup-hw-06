@@ -71,14 +71,6 @@ color: inherit;
   max-width: 428px;
   margin: 0 auto;
   padding: 0 15px;
-
-  @media screen and (min-width: 768px) {
-    max-width: 768px;
-  }
-
-  @media screen and (min-width: 1158px) {
-    max-width: 1158px;
-  }
 }
 
 .visually-hidden {
@@ -110,7 +102,7 @@ color: inherit;
 }
 /* checked */
 .logo-link > span {
-  font-size: 18px;rimary
+  font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.04em;
 }
